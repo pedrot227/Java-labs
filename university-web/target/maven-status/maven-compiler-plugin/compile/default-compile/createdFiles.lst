@@ -1,0 +1,11 @@
+by\university\servlet\LoginServlet.class
+by\university\model\Group.class
+by\university\model\LabWork.class
+org\example\Main.class
+by\university\model\Student.class
+by\university\service\FacultyService.class
+by\university\servlet\AssignLabWorksServlet.class
+by\university\service\LabWorkService.class
+by\university\model\Faculty.class
+by\university\servlet\FacultyServlet.class
+by\university\servlet\AddGroupServlet.class

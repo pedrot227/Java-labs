@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [19/May/2026:13:53:05 +0300] "GET /LoginServlet HTTP/1.1" 404 997 http-bio-8080-exec-1 51
+0:0:0:0:0:0:0:1 - - [19/May/2026:13:53:05 +0300] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [19/May/2026:14:00:50 +0300] "GET /LoginServlet HTTP/1.1" 200 1191 http-bio-8080-exec-1 977
+0:0:0:0:0:0:0:1 - - [19/May/2026:14:01:01 +0300] "POST /LoginServlet HTTP/1.1" 302 - http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [19/May/2026:14:01:02 +0300] "GET /FacultyServlet HTTP/1.1" 200 2960 http-bio-8080-exec-4 557
+0:0:0:0:0:0:0:1 - - [19/May/2026:14:43:29 +0300] "GET /LoginServlet HTTP/1.1" 200 1259 http-bio-8080-exec-1 895
+0:0:0:0:0:0:0:1 - - [19/May/2026:14:43:37 +0300] "POST /LoginServlet HTTP/1.1" 302 - http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [19/May/2026:14:43:37 +0300] "GET /FacultyServlet HTTP/1.1" 200 2988 http-bio-8080-exec-4 523
+0:0:0:0:0:0:0:1 - - [19/May/2026:14:46:03 +0300] "GET /FacultyServlet HTTP/1.1" 200 2988 http-bio-8080-exec-1 118
+0:0:0:0:0:0:0:1 - - [19/May/2026:14:46:12 +0300] "GET /AssignLabWorksServlet?groupId=1 HTTP/1.1" 200 6649 http-bio-8080-exec-3 907
